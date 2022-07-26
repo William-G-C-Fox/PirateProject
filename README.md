@@ -2,6 +2,10 @@
 
 Developed with Unreal Engine 4
 
+Assets used: 
+
+Ship Model: https://www.turbosquid.com/3d-models/unwrapped-ship-3d-1278443
+
 Music list: 
 
 A Pirate's life by TommyMutiu from Pixabay
